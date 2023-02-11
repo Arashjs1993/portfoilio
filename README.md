@@ -1,3 +1,7 @@
+# Description
+My portoilio webpage that I have created it using ReactJS. "src" folder contains all the component files and also the stylesheet files. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
